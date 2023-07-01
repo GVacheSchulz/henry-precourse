@@ -1,2 +1,1 @@
-# henry-precourse
-es un repositorio de prueba
+este proyecto es para aprender a clonar un repositorio
